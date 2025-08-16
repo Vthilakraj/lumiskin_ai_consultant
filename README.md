@@ -2,6 +2,12 @@
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
+## 🌟 Live Demo
+
+Experience the application live: [View Demo](https://your-app-url.netlify.app)
+
+> **Note:** Replace the URL above with your actual deployment link once the application is published.
+
 ## 🚀 Features
 
 - **React 18** - React version with improved rendering and concurrent features
